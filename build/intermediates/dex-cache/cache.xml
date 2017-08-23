@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/howardkan/Documents/codepath/SimpleTodo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="162a6ef2771c7f1b5a28c8be9310ec767964ef5b">
+        <dex dex="/Users/howardkan/Documents/codepath/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_203a16745ffc02da73fd1fb1dfc839ad959e973b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/howardkan/.android/build-cache/21eaad7cf3d608d02c46269337d2601e94408c92/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/howardkan/Documents/codepath/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fbf3c764efa9612b090468501f93bf12af2b981/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/howardkan/.android/build-cache/b3e5de5810c772f7e20be1e5cc16dd47b7302fb2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/howardkan/Documents/codepath/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_814deb9c1c4b9898c1d12f5943a49576e377c67b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/howardkan/.android/build-cache/52c1298a87f78b1ec9647a6e570d6e31b02c4f23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/howardkan/Documents/codepath/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ec28dec6a2975a76bb02531f59c3c9b59a3aa71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/howardkan/.android/build-cache/9f9d966f2e67bdf6594aa7eb4622e33d6b818030/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/howardkan/Documents/codepath/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e112b7af49ca24c4cb90f7e31860717eb7374b50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/howardkan/.android/build-cache/2a29b01aadaf0c0d69afcde52711baee1476602e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/howardkan/Documents/codepath/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb00c6d23527c62224146f34362c109674d612af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/howardkan/.android/build-cache/6557346dc94faa0dcdfd1a2d09ca01ff9c159de3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/howardkan/Documents/codepath/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f57ec8681ff8b7415a06f5d983e856b76de498a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/howardkan/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/howardkan/Documents/codepath/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_69ce94e76e1025dfc8b6608f8efd553620a1ac32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/howardkan/Documents/codepath/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/howardkan/.android/build-cache/a6e02a4a65b8d1b63bfffc5be8295964287ad85a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/howardkan/Documents/codepath/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_965aae539c15030c1988c22f721454c57cd8fd00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/howardkan/Documents/codepath/SimpleTodo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/howardkan/Documents/codepath/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f898ee6d1447963bbdb1a0dd8c9d56d3c153747/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/howardkan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/howardkan/Documents/codepath/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_3e25897fcf19376de10a6c43627a3dc1be150986/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/howardkan/.android/build-cache/da79cfe5e56d03cbdac2051e7311be3d876ff28b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/howardkan/Documents/codepath/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f818e2324a587eccb36196e04d38769a783097b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/howardkan/.android/build-cache/4b51750a091ebc7f7f534f258214b66144de0ad7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/howardkan/Documents/codepath/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8117db7fac0d22b471dcd8849d7ec3d42ae1b29d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/howardkan/.android/build-cache/44f81967ea45ab83beb141dcfed691ad678a1f94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/howardkan/Documents/codepath/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2c4a422a07f9a5fdea928f518ec797ead66beb4/classes.dex" />
+    </item>
+
+</items>
